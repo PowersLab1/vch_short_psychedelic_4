@@ -46,6 +46,7 @@ class Instructions extends Component {
                 <br /><br /> Press <font size="+2"> <b> "E"/NO </b> </font> if you <b> DO NOT </b> see the stripes.
                 <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>
                 <br /><br /><br /> PRESS "Q"/YES TO BEGIN A SHORT PRACTICE SESSION
+
               </p>
             </div>
             </header>

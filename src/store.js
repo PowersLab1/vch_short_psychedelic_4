@@ -256,6 +256,7 @@ export function clearTaskData() {
   // Save data we want to keep
   const encryptedMetadata = getEncryptedMetadata();
   const dataSent = getDataSent();
+  const surveyUrl = getSurveyUrl();
 
   // Clear storage
   LocalStorageBackedStore.clear();
@@ -263,6 +264,7 @@ export function clearTaskData() {
   // Set data without using setters so we don't trip unwanted logic
   LocalStorageBackedStore.store[ENCRYPTED_METADATA_KEY] = encryptedMetadata;
   LocalStorageBackedStore.store[DATA_SENT_KEY] = dataSent;
+  LocalStorageBackedStore.store[SURVEY_URL_KEY] = surveyUrl;
 
   // Remember to persist
   LocalStorageBackedStore.save();
