@@ -78,7 +78,7 @@ function createPatch(stim) {
  export function createAuditoryStim() {
    var stim = {
      duration: 300, // in ms
-     amp: 15,
+     amp: 1, //originally set to 15 but this is too loud
      frequency: 1250,
    };
 
