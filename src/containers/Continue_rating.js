@@ -49,6 +49,7 @@ class Continue_rating extends Component {
               <br /><br /> Press  <font size="+2">  <b> "Q"/YES </b> </font> if you <b> DO </b>see the stripes.
               <br /><br /> Press <font size="+2"> <b> "E"/NO </b> </font> if you <b> DO NOT </b> see the stripes.
               <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>
+              <br /><br /> Please keep your eyes focused on the <b>cross in the center</b> (don't look at the circle where the stripes may be)
               <br /><br /> There will be scheduled breaks throughout the experiment, but please do not take a break unless instructed.
               <br /><br /><br /> PRESS "Q"/YES TO BEGIN THE EXPERIMENT.
             </p>

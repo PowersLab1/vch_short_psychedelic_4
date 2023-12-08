@@ -46,6 +46,7 @@ class Continue extends Component {
                 <br /><br /> If you hold <b> "Q"/YES </b>  button down for a long time, you are very certain that you  <b> DO </b> see the stripes.
                 <br /><br /> If you hold <b> "E"/NO </b>  button down for a long time, you are very certain that you <b> DO NOT </b> see the stripes.
                 <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>
+                <br /><br /> Please keep your eyes focused on the <b>cross in the center</b> (don't look at the circle where the stripes may be)
                 <br /><br /><br /> PRESS "Q"/YES WHEN READY TO CONTINUE.
               </p>
             </div>

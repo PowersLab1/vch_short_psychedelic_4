@@ -40,6 +40,7 @@ class Break1 extends Component {
                Great!
                 <br /><br /> Take a quick break. Three more to go!
                 <br /><br /> Remember: Continue to look carefully and do the best you can, rating your certainty as before.
+                <br /><br /> Please keep your eyes focused on the <b>cross in the center</b> (don't look at the circle where the stripes may be)
                 <br /><br /> The task will continue to be difficult, but it is okay to guess and it is okay to be uncertain.
                 <br /><br /> Press  <font size="+2">  <b> "Q"/YES </b> </font> if you <b> DO </b>see the stripes.
                 <br /><br /> Press <font size="+2"> <b> "E"/NO </b> </font> if you <b> DO NOT </b> see the stripes.
